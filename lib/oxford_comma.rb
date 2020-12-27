@@ -3,7 +3,7 @@ def oxford_comma(array)
    return array[0]
    
  elsif array.size == 2
- 
+  return array
   
 end
 end
